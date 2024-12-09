@@ -20,7 +20,7 @@ A software engineer transitioning into data science and AI engineering, passiona
 - Predictive analytics and time-series modeling for real-world applications.  
 
 📂 **Featured Projects**  
-- **Customer Churn Prediction**: Developed a machine learning model to predict customer churn and identify actionable insights for retention. [View Project](https://github.com/n-liyana/churn-prediction)  
+- **Customer Churn Prediction**: Developed a machine learning model to predict customer churn and identify actionable insights for retention. [View Project](https://github.com/n-liyana/customer-churn-prediction)  
 - **Sales Dashboard Analysis**: Created an interactive Power BI dashboard for visualizing sales trends and identifying growth opportunities. [View Project](https://github.com/n-liyana/sales-dashboard)  
 - **Image Classification with CNNs**: Built a deep learning model using TensorFlow for classifying images in the CIFAR-10 dataset. [View Project](https://github.com/n-liyana/image-classification)  
 
